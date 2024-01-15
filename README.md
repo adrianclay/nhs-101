@@ -19,3 +19,5 @@
 - FHIR
 - HL7
 - Apigee
+- Spine Secure Proxy
+- MiM
